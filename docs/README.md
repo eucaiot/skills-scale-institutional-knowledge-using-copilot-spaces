@@ -38,7 +38,7 @@ Quality is systemized through multi-layered testing: unit tests for new logic, i
 ## Key Roles
 
 | Role | Responsibility | Key Activities |
-|------|-----------------|-----------------|
+|------|-----------------|------------------|
 | **Product Manager (PdM)** | Define what should be built; prioritize backlog; measure outcomes | Problem definition, backlog prioritization, success metrics, stakeholder alignment |
 | **Project Manager (PM)** | Coordinate delivery; manage schedules, risks, communications | Timeline management, risk tracking, stakeholder updates, blocker escalation |
 | **Developers** | Implement features; collaborate on design and testability | Code implementation, testing, code reviews, design collaboration |
